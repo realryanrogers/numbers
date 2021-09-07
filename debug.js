@@ -1,0 +1,1 @@
+numberTotal = 0;

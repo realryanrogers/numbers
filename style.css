@@ -1,0 +1,9 @@
+.leftColumn {
+    float: left;
+    width: 300px;
+}
+
+.helperRow {
+    display:flex;
+    justify-content: space-between;
+}
